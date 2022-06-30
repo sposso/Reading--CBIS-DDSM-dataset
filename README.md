@@ -4,4 +4,4 @@ Path_masks(1) = This script is used to get the path of mask images of mammograms
 <br />
 Path_mamograms(2) = This script is used to get the path of  mammogram images that have only one lession and were not cropped. 
 <br />
-Mass_calc_together(3) = Since the first two scripts return different CSV files for masses and calcifications, Mass_calc_together script join all  mamograms in one  CSV file.
+Mass_calc_together(3) = Since the first two scripts return different CSV files for masses and calcifications,Mass_calc_together script join all  mamograms in one  CSV file.
